@@ -1,0 +1,12 @@
+.footer {
+  padding-top: 100px;
+}
+
+.footer .logo {
+  width: 140px;
+}
+
+.footer .copyright {
+  border-top: 1px solid;
+  border-width: 100%;
+}

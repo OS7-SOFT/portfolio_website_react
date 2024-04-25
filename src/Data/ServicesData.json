@@ -1,0 +1,40 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Graphic Design",
+      "url": "Graphic-Design-Banner02.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similiqueincidunt maiores"
+    },
+    {
+      "id": 2,
+      "title": "Web Design",
+      "url": "undraw_progressive_app_m9ms.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similiqueincidunt maiores."
+    },
+    {
+      "id": 3,
+      "title": "Web Developer",
+      "url": "free-corporate-branding-mockup-psd.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similiqueincidunt maiores."
+    },
+    {
+      "id": 4,
+      "title": "Desktop Program",
+      "url": "Free-Workplace-Laptop-Mockup-PSD-1.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similiqueincidunt maiores."
+    },
+    {
+      "id": 5,
+      "title": "Game Developer",
+      "url": "icon+game+video.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similiqueincidunt maiores."
+    },
+    {
+      "id": 6,
+      "title": "Application",
+      "url": "3465993.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similiqueincidunt maiores."
+    }
+  ]
+}

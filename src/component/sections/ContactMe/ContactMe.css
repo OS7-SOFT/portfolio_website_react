@@ -1,0 +1,47 @@
+.contact-me {
+  padding-block: 100px;
+}
+
+.contact-me > img:first-child {
+  top: -20px;
+  width: 800px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: -10;
+}
+
+@media (max-width: 767px) {
+  .contact-me > img:first-child {
+    width: 300px;
+  }
+}
+
+.contact-me form > input:not([type="submit"]),
+.contact-me form > textarea {
+  border: none;
+  outline: 1px solid var(--bs-gray);
+  border-radius: 6px;
+  transition: var(--main-duration);
+}
+
+.contact-me form > input:not([type="submit"]):focus,
+.contact-me form > textarea:focus {
+  -moz-box-shadow: 0 0 4px 4px #42a5f58f;
+  box-shadow: 0 0 4px 4px #42a5f58f;
+}
+
+.contact-me form > textarea {
+  resize: none;
+  height: 200px;
+}
+
+@media (max-width: 767px) {
+  .contact-me form > input:not([type="submit"]),
+  .contact-me form > textarea {
+    max-width: 350px;
+  }
+}
+
+.contact-me form input[type="submit"] {
+  width: fit-content;
+}

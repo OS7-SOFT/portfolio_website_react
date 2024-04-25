@@ -1,0 +1,23 @@
+.landing {
+  height: calc(100vh - 91px);
+  margin-bottom: 100px;
+}
+
+.landing img {
+  width: 700px;
+}
+
+@media (max-width: 767px) {
+  .landing img {
+    width: 350px;
+    margin-block: 42px;
+  }
+}
+
+.landing-text .name {
+  font-size: 50px;
+}
+
+.landing-text .description {
+  max-width: 500px;
+}

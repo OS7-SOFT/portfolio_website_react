@@ -1,0 +1,45 @@
+.nav-fixed {
+  position: fixed;
+  left: 50%;
+  /* right: 50%; */
+  width: 100%;
+  transform: translateX(-50%);
+  z-index: 10000;
+  background-color: white;
+  box-shadow: 1px 2px 4px #a8a6a6;
+}
+
+nav ul > li > span {
+  cursor: pointer;
+  display: block;
+  font-size: 18px;
+  transition: var(--main-duration);
+}
+
+nav ul > li > span:hover {
+  color: var(--bs-primary);
+}
+
+nav ul > li > span::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -4px;
+  transform: translateX(-50%);
+  width: 0;
+  height: 2px;
+  background-color: var(--bs-primary);
+  transition: var(--main-duration);
+}
+
+nav ul > li > span:hover::after {
+  width: 100%;
+}
+
+nav ul > li > .active {
+  color: var(--bs-primary);
+}
+
+nav ul > li > .active::after {
+  width: 100%;
+}

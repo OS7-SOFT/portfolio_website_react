@@ -1,0 +1,32 @@
+.serv .box {
+  -moz-box-shadow: 0px 0px 20px 0px #00000026;
+  box-shadow: 0px 0px 20px 0px #00000026;
+  background-color: white;
+  transition: var(--main-duration);
+}
+
+.serv .box:hover {
+  background-color: var(--bs-primary);
+  color: white !important;
+}
+
+.serv .box:hover > a {
+  background-color: white !important;
+  color: black !important;
+}
+
+.serv .box > img {
+  width: 100px;
+  height: 100px;
+  border: 1px solid var(--bs-primary);
+  border-radius: 100%;
+  z-index: -10;
+}
+
+.serv .box span {
+  margin-top: -20px;
+}
+
+.serv .box p {
+  line-height: 2;
+}

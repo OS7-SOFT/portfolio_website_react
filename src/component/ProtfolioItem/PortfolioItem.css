@@ -1,0 +1,22 @@
+.portfolio .box:hover > .info {
+  top: 0;
+}
+
+.portfolio .box .info {
+  top: -100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 30px;
+  padding-top: 120px;
+  background-color: #376efdc2;
+  transition: var(--main-duration);
+}
+
+.portfolio .box .info span {
+  font-size: 15px;
+}
+.portfolio .box .info p {
+  font-size: 13px;
+  max-width: 300px;
+}

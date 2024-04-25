@@ -1,0 +1,27 @@
+.portfolio ul > li > span {
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 18px;
+  transition: var(--main-duration);
+}
+
+.portfolio ul > li > span:hover {
+  color: var(--bs-primary) !important;
+}
+
+.portfolio ul > li > .active {
+  color: var(--bs-primary) !important;
+  position: relative;
+  transition: 0.3s;
+}
+
+.portfolio ul > li > .active::after {
+  content: "";
+  position: absolute;
+  bottom: -9px;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: var(--bs-primary);
+  transition: 0.3s;
+}

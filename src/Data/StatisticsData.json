@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "id": 1, "field": "Web Developer", "rate": 90 },
+    { "id": 2, "field": "Game Developer", "rate": 45 },
+    { "id": 3, "field": "Desktop Developer", "rate": 85 },
+    { "id": 4, "field": "Web Design", "rate": 45 }
+  ]
+}

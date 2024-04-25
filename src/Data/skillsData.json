@@ -1,0 +1,31 @@
+{
+  "skills": [
+    { "id": 1, "skillName": "Web Design", "rate": 80, "tools": ["Adobe XD"] },
+    {
+      "id": 2,
+      "skillName": "web Development",
+      "rate": 90,
+      "tools": ["HTML", "CSS", "JavaScript", "React.js", "ASP.NET core"]
+    },
+    {
+      "id": 3,
+      "skillName": "Graphic Design ",
+      "rate": 70,
+      "tools": ["PhotoShop"]
+    },
+    {
+      "id": 4,
+      "skillName": "Game Developement ",
+      "rate": 65,
+      "tools": ["Unity", "C#"]
+    },
+    { "id": 5, "skillName": "Desktop program ", "rate": 90, "tools": ["C#"] },
+    { "id": 6, "skillName": "Web Scraping ", "rate": 65, "tools": ["Python"] },
+    {
+      "id": 7,
+      "skillName": "Problem Solving ",
+      "rate": 75,
+      "tools": ["Debug", "Code reviews"]
+    }
+  ]
+}

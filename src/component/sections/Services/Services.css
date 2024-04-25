@@ -1,0 +1,10 @@
+.serv {
+  padding-block: 100px;
+}
+
+.serv > img {
+  width: 210px;
+  bottom: 73px;
+  right: 16px;
+  z-index: -10;
+}

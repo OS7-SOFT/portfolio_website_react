@@ -1,0 +1,29 @@
+.skill-prog {
+  margin-bottom: 80px !important;
+}
+
+.skill-prog .prog {
+  border-radius: 8px;
+  height: 8px;
+  width: 100%;
+  background-color: #e3f2fd;
+}
+
+.skill-prog .prog span {
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.skill-prog .prog span::before {
+  content: attr(data-progress);
+  position: absolute;
+  font-size: 30px;
+  font-weight: bold;
+  top: -50px;
+  left: 5px;
+}
+
+.skill-prog > span {
+  font-size: 15px;
+  border-radius: 8px;
+}

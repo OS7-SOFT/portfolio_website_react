@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Frontend",
+      "ShortDescreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit.",
+      "Descreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit.",
+      "url": "dribbble-thumbnail.png",
+      "tools": ["Html", "Css", "Bootstrap"]
+    },
+    {
+      "id": 2,
+      "title": "SimpleGame",
+      "ShortDescreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit.",
+      "Descreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit.",
+      "url": "dribbble_attachment.png",
+      "tools": ["Unity", "C#"]
+    },
+    {
+      "id": 3,
+      "title": "Application",
+      "ShortDescreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit.",
+      "Descreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit.",
+      "url": "3b8036b8a3b3e4e8692f3a79e549efc7.png",
+      "tools": ["Andriod Studio", "Flutter"]
+    },
+    {
+      "id": 4,
+      "title": "webDesign",
+      "ShortDescreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit.",
+      "Descreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit.",
+      "url": "kreativ-creative.png",
+      "tools": ["Adobe XD", "Photoshop"]
+    },
+    {
+      "id": 5,
+      "title": "Shots",
+      "ShortDescreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit.",
+      "Descreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit.",
+      "url": "shots_3.png",
+      "tools": ["ASP.NET core", "C#"]
+    },
+    {
+      "id": 6,
+      "title": "Application",
+      "ShortDescreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit.",
+      "Descreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit ametconsectetur adipisicing elit.",
+      "url": "3465993.jpg",
+      "tools": ["Andriod Studio", "Kotlen"]
+    }
+  ]
+}

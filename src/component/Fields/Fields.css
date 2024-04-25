@@ -1,0 +1,21 @@
+.box-stat {
+  --moz-box-shadow: 0px 9px 20px 0px #151d4121;
+  --mz-box-shadow: 0px 9px 20px 0px #151d4121;
+  box-shadow: 0px 9px 20px 0px #151d4121;
+  border-radius: 100%;
+  width: 250px;
+  height: 250px;
+  padding: 25px;
+}
+
+.box-stat .content {
+  border-radius: 100%;
+  border: 1px solid;
+  outline: 4px solid var(--bs-primary);
+  width: 100%;
+  height: 100%;
+}
+
+.box-stat .content > h4 {
+  font-size: 50px;
+}
